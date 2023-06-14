@@ -1,5 +1,5 @@
 # Jane's fork of ArduPilot Project.
-## Includes mods for autonomous drone project.
+Includes mods for autonomous drone project.
 
 <a href="https://ardupilot.org/discord"><img src="https://img.shields.io/discord/674039678562861068.svg" alt="Discord">
 
