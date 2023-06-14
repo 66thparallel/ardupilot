@@ -1,5 +1,5 @@
-# Jane's fork of ArduPilot Project.
-Includes mods for autonomous drone project.
+# Jane's fork of ArduPilot.
+Includes mods for my autonomous drone project.
 
 ArduPilot is the most advanced, full-featured, and reliable open source autopilot software available.
 It has been under development since 2010 by a diverse team of professional engineers, computer scientists, and community contributors.
